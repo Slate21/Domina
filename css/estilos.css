@@ -1,0 +1,28 @@
+.secPuntos{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.div{
+    width: 28em;
+    padding: 30px;
+}
+.inp2{
+    width: 45% !important;
+    margin-top: 10px;
+}
+.p2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/* Estilos punto 1 */
+.punto1R{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+}
